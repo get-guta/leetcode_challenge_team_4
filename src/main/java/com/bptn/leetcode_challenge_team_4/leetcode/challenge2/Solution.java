@@ -37,3 +37,10 @@ public class Solution {
         System.out.println(Arrays.toString(solution.sortedSquares(nums2)));
     }
 }
+
+//Summary
+
+//This code takes a sorted array of integers, squares each number, and returns a new array with the 
+//squares sorted in order. It uses a simple two-pointer technique to efficiently build the result 
+//without needing extra sorting. The method is quick and works well even with large arrays, as shown 
+//in the example inputs and outputs.
